@@ -1,6 +1,5 @@
 # Simple MEAN stack app project
 =======================
-
 # Introduction
 ------------
 This is a simple MEAN Stack application. This application is meant to be used as a starting place for those
